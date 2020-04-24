@@ -81,6 +81,7 @@ input[type="email"], input[type="password"]{
 		padding:12px;
 		font-size:15px;
 		outline:none;
+                border:2px double #dbdbdb;
   	}
 .mysubmit11{
 		color:white;
